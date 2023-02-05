@@ -1,0 +1,16 @@
+{
+    "name": "ch/better-search-replace",
+    "description": "Better Search Replace in the Database",
+    "autoload": {
+        "psr-4": {
+            "Ch\\BetterSearchReplace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valentin Ceaprazaru",
+            "email": "6508597+valentinceaprazaru@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
